@@ -1,4 +1,6 @@
-# Rider-Driven-Cancellation-Prediction
+# Cascade_Cup_2022
+## Rider-Driven-Cancellation-Prediction
+**Background:**
 At Shadowfax, part of our business includes delivering food orders from clients such as Swiggy and Zomato to customers. The typical order flow goes something like this:
 A client creates the order in our system
 
@@ -12,7 +14,6 @@ The rider also has the option to get the order cancelled before delivery by call
 
 Training Data: https://www.kaggle.com/c/cascade-cup-22/data
 
-## Problem Statement
+**Problem Statement:**
 Given the order and rider details as described below, create a model that can predict rider-driven cancellation in advance (i.e. before getting marked as cancelled or delivered)
 
-## Our initial approach towards the problem statment:
