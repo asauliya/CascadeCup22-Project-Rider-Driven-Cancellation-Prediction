@@ -1,5 +1,4 @@
 # Rider-Driven-Cancellation-Prediction
-Background
 At Shadowfax, part of our business includes delivering food orders from clients such as Swiggy and Zomato to customers. The typical order flow goes something like this:
 A client creates the order in our system
 
