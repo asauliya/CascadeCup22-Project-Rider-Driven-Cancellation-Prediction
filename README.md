@@ -23,8 +23,11 @@ Kaggle link : https://www.kaggle.com/c/cascade-cup-22/data
 ### **New features added**
 
 Hour: time of order (in hours)
+
 weekday: day of the week on which order placed
+
 accept_time_null: 1 if NAN else 0
+
 
 Missing vales in a column data are filled by mean of the column.
 
